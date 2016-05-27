@@ -3,6 +3,6 @@
  */
 function main_function(){
 
+alert("OK")
 
-    
 }
